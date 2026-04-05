@@ -9,7 +9,7 @@ background-repeat: repeat;
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
-      color: blue;
+      color: black;
       fontsize: 32px;
       font-family: "Times New Roman", Times, serif;
       }
